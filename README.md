@@ -1,4 +1,7 @@
-REA# 👨‍💻 About Me
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=200&section=header&text=Hi%20I'm%20Thunder%20Macwan%20⚡&fontSize=35&fontColor=ffffff)
+
+# 👨‍💻 About Me
 - 🎓 B.Tech Student | Full-Stack Web Developer  
 - 💻 Passionate about building **real-world projects with MERN**  
 - 🌱 Currently exploring advanced **React, Node.js & system design**  
@@ -37,9 +40,22 @@ REA# 👨‍💻 About Me
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
 ### 🛒 [Amazon Clone](https://amazon-clone-frontend-seven-puce.vercel.app/)  
 A full-stack eCommerce clone with authentication, shopping cart, and admin features.  
+
+### 🎬 [Movie Search App](https://github.com/sebastianmacwan/MovieSearchApp)  
+A React app that fetches movie data from an API, with search functionality and a clean UI.  
+
+<p align="center">
+  <a href="https://github.com/sebastianmacwan/amazon-clone-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=amazon-clone-frontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sebastianmacwan/MovieSearchApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=MovieSearchApp&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
