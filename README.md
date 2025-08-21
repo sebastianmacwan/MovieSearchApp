@@ -43,10 +43,10 @@
 
 # 🚀 Featured Projects
 
-### 🛒 [Amazon Clone](https://github.com/sebastianmacwan/AmazonClone)  
+### 🛒 [Amazon Clone](https://amazon-clone-frontend-seven-puce.vercel.app/)  
 A full-stack eCommerce clone with authentication, shopping cart, and admin features.  
 
-### 🎬 [Movie Search App](https://github.com/sebastianmacwan/MovieSearchApp)  
+### 🎬 [Movie Search App](https://movies-search-now.netlify.app/)  
 A React app that fetches movie data from an API, with search functionality and a clean UI.  
 
 <p align="center">
