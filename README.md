@@ -36,7 +36,8 @@
 ---
 
 # 📌 My Profile Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=sebastianmacwan&theme=tokyonight)](https://github.com/sebastianmacwan/sebastianmacwan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=MovieSearchApp&theme=tokyonight)](https://github.com/sebastianmacwan/MovieSearchApp)
+
 
 ---
 
