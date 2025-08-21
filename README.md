@@ -43,15 +43,15 @@
 
 # 🚀 Featured Projects
 
-### 🛒 [Amazon Clone](https://amazon-clone-frontend-seven-puce.vercel.app/)  
+### 🛒 [Amazon Clone](https://github.com/sebastianmacwan/AmazonClone)  
 A full-stack eCommerce clone with authentication, shopping cart, and admin features.  
 
 ### 🎬 [Movie Search App](https://github.com/sebastianmacwan/MovieSearchApp)  
 A React app that fetches movie data from an API, with search functionality and a clean UI.  
 
 <p align="center">
-  <a href="https://github.com/sebastianmacwan/amazon-clone-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=amazon-clone-frontend&theme=tokyonight" />
+  <a href="https://github.com/sebastianmacwan/AmazonClone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=AmazonClone&theme=tokyonight" />
   </a>
   <a href="https://github.com/sebastianmacwan/MovieSearchApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastianmacwan&repo=MovieSearchApp&theme=tokyonight" />
